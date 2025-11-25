@@ -20,10 +20,25 @@ A simple Android application to plan travel destinations. Users can enter a dest
 
 ## Screenshots
 
-*(Include screenshots of MainActivity and DisplayActivity here if available.)*
+<table>
+<tr>
+<td>
+
+**MainActivity – Enter Destination**<br>
+<img src="https://github.com/SaraArif6198/MobileApp-MiniProjects/raw/main/WhatsApp%20Image%202025-11-25%20at%2020.05.17_bf9205e3.jpg" width="300"/>
+
+</td>
+<td>
+
+**DisplayActivity – Destination Details**<br>
+<img src="https://github.com/SaraArif6198/MobileApp-MiniProjects/raw/main/WhatsApp%20Image%202025-11-25%20at%2020.05.16_f4cd6a0a.jpg" width="300"/>
+
+</td>
+</tr>
+</table>
+
 
 ---
-
 
 ## How It Works
 
